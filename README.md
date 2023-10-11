@@ -4,8 +4,11 @@
 
 ### Contáctame:
 
-![image](https://github.com/eltioantonioxd/eltioantonioxd/assets/91589175/bc7ad40d-c21c-4816-b0d9-e132a4ce71c8)(https://www.linkedin.com/in/brayan-antonio-espina-tramolao-720540227/)
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/brayan-antonio-espina-tramolao-720540227/)
 
+### Lenguajes y herramientas:
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,bootstrap,nodejs,mysql,mongodb,py,flask,django,selenium,postman,docker,aws,linux,nginx,git,express,vscode)](https://skillicons.dev)
 
 <!--
 **eltioantonioxd/eltioantonioxd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
