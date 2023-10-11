@@ -1,4 +1,11 @@
-### Hi there 👋
+# Hola 👋, soy Brayan
+
+## [Estudiante de Ingeniería civil en informática y telecomunicaciones - UDP](https://www.udp.cl) 
+
+### Contáctame:
+
+![image](https://github.com/eltioantonioxd/eltioantonioxd/assets/91589175/bc7ad40d-c21c-4816-b0d9-e132a4ce71c8)(https://www.linkedin.com/in/brayan-antonio-espina-tramolao-720540227/)
+
 
 <!--
 **eltioantonioxd/eltioantonioxd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
