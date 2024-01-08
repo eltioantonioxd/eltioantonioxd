@@ -1,6 +1,6 @@
 # Hola 👋, soy Brayan
 
-## [Estudiante de Ingeniería civil en informática y telecomunicaciones - UDP](https://www.udp.cl) 
+## [Ingeniero Civil en Informática y Telecomunicaciones - UDP](https://www.udp.cl) 
 
 ### Contáctame:
 
